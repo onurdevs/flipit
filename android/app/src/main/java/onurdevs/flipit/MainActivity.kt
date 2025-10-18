@@ -1,4 +1,4 @@
-package com.flipit
+package onurdevs.flipit
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

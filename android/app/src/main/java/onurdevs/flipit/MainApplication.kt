@@ -1,4 +1,4 @@
-package com.flipit
+package onurdevs.flipit
 
 import android.app.Application
 import com.facebook.react.PackageList
